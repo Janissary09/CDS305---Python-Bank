@@ -1,0 +1,67 @@
+[
+  {
+    "typ": "konto_eroeffnen",
+    "zeitstempel": "2026-01-01T09:00:00Z",
+    "kunde": {
+      "iban": "CH001",
+      "name": "Anna Muster",
+      "adresse": "Teststrasse 1",
+      "geburtsdatum": "1990-01-01"
+    }
+  },
+  {
+    "typ": "konto_eroeffnen",
+    "zeitstempel": "2026-01-01T09:05:00Z",
+    "kunde": {
+      "iban": "CH002",
+      "name": "Max Beispiel",
+      "adresse": "Teststrasse 2",
+      "geburtsdatum": "1985-05-05"
+    }
+  },
+  {
+    "typ": "einzahlung",
+    "zeitstempel": "2026-01-01T10:00:00Z",
+    "ziel_iban": "CH001",
+    "betrag": 500
+  },
+  {
+    "typ": "ueberweisung",
+    "zeitstempel": "2026-01-01T11:00:00Z",
+    "von_iban": "CH001",
+    "nach_iban": "CH002",
+    "betrag": 200
+  },
+  {
+  "typ": "kredit_antrag",
+  "zeitstempel": "2026-01-02T10:00:00Z",
+  "kunden_iban": "CH001",
+  "betrag": 1000
+  },
+  {
+    "typ": "zeit",
+    "zeitstempel": "2026-02-01T00:00:00Z"
+  },
+  {
+  "typ": "ueberweisung",
+  "zeitstempel": "2026-02-02T10:00:00Z",
+  "von_iban": "CH001",
+  "nach_iban": "CH002",
+  "betrag": 2000
+  },
+  {
+    "typ": "zeit",
+    "zeitstempel": "2026-02-03T00:00:00Z"
+  },
+  {
+  "typ": "ueberweisung",
+  "zeitstempel": "2026-02-03T10:00:00Z",
+  "von_iban": "CH001",
+  "nach_iban": "CH002",
+  "betrag": 2000
+  },
+  {
+    "typ": "zeit",
+    "zeitstempel": "2026-02-04T00:00:00Z"
+  }
+]
