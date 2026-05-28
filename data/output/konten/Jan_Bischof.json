@@ -1,0 +1,1296 @@
+{
+    "konto_iban": "CH00007620000000000100",
+    "kunde": {
+        "name": "Jan Bischof",
+        "adresse": "Tittwiesenstrasse 6, 7000 Chur",
+        "geburtsdatum": "2000-06-25"
+    },
+    "kontostand": -635.1899999999982,
+    "kreditstand": 0,
+    "kreditbetrag": 8000,
+    "status": "gesperrt",
+    "eroeffnungsdatum": "2026-01-02",
+    "monate_ohne_tilgung": 0,
+    "transaktionen": [
+        {
+            "zeitstempel": "2026-01-02T09:00:10Z",
+            "typ": "konto_eroeffnen",
+            "betrag": 0.0,
+            "saldo_nachher": 0.0,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-01-02T10:00:05Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 477.79,
+            "saldo_nachher": 477.79,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-01-02T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 368.19,
+            "saldo_nachher": 109.60000000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-01-05T10:00:02Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 241.87,
+            "saldo_nachher": 109.60000000000002,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-01-07T10:00:01Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 438.33,
+            "saldo_nachher": 109.60000000000002,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-01-08T10:00:02Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 487.82,
+            "saldo_nachher": 109.60000000000002,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-01-09T10:00:05Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 242.96,
+            "saldo_nachher": 352.56000000000006,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-01-13T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 262.57,
+            "saldo_nachher": 89.99000000000007,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-01-20T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 576.12,
+            "saldo_nachher": 89.99000000000007,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-01-26T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 96.84,
+            "saldo_nachher": 89.99000000000007,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-01-28T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 99.92,
+            "saldo_nachher": 89.99000000000007,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:00:21Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1962,
+            "saldo_nachher": 2051.9900000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:00:28Z",
+            "typ": "kredit_auszahlung",
+            "betrag": 8000,
+            "saldo_nachher": 10051.99,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:00:28Z",
+            "typ": "kredit_gebuehr",
+            "betrag": -250,
+            "saldo_nachher": 9801.99,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:01:01Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 642.99,
+            "saldo_nachher": 9159.0,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:01:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 51.22,
+            "saldo_nachher": 9107.78,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-03T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 464.29,
+            "saldo_nachher": 8643.49,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-04T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1759.33,
+            "saldo_nachher": 10402.82,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-05T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 493.38,
+            "saldo_nachher": 9909.44,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-06T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 716.99,
+            "saldo_nachher": 9192.45,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-06T10:00:23Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 165.08,
+            "saldo_nachher": 9027.37,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-09T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1286.48,
+            "saldo_nachher": 7740.890000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-09T10:00:23Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 773.68,
+            "saldo_nachher": 6967.210000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-09T10:00:25Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 272.7,
+            "saldo_nachher": 6694.510000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-10T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 144.7,
+            "saldo_nachher": 6549.810000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-12T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 21.13,
+            "saldo_nachher": 6528.680000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-13T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 98.64,
+            "saldo_nachher": 6430.040000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-13T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 169.7,
+            "saldo_nachher": 6260.340000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-16T10:00:18Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 99.15,
+            "saldo_nachher": 6161.190000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-17T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 645.57,
+            "saldo_nachher": 5515.620000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-18T10:00:18Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 192.83,
+            "saldo_nachher": 5322.790000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-18T10:00:20Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 182.79,
+            "saldo_nachher": 5140.000000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-19T10:00:30Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 681.06,
+            "saldo_nachher": 4458.940000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-20T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 551.4,
+            "saldo_nachher": 3907.5400000000022,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-23T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 469.97,
+            "saldo_nachher": 3437.5700000000024,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-25T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 413.55,
+            "saldo_nachher": 3024.0200000000023,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-26T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 652.69,
+            "saldo_nachher": 2371.330000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T10:00:19Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1971,
+            "saldo_nachher": 4342.330000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -100.0,
+            "saldo_nachher": 4242.330000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 3575.6600000000017,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T10:00:55Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 519.25,
+            "saldo_nachher": 3056.4100000000017,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-03T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 368.16,
+            "saldo_nachher": 2688.250000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-04T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 64.45,
+            "saldo_nachher": 2623.800000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-04T10:00:23Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 621.09,
+            "saldo_nachher": 2002.7100000000019,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-05T10:00:25Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 258.09,
+            "saldo_nachher": 1744.620000000002,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-06T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 127.42,
+            "saldo_nachher": 1617.2000000000019,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-09T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 458.44,
+            "saldo_nachher": 1158.7600000000018,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-10T10:00:25Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 512.59,
+            "saldo_nachher": 646.1700000000018,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-11T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 484.17,
+            "saldo_nachher": 162.00000000000176,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-17T10:00:18Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 376.37,
+            "saldo_nachher": 162.00000000000176,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-03-18T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 735.38,
+            "saldo_nachher": 162.00000000000176,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-03-20T10:00:27Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 714.73,
+            "saldo_nachher": 162.00000000000176,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-03-23T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 46.74,
+            "saldo_nachher": 115.26000000000175,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-24T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2068.71,
+            "saldo_nachher": 115.26000000000175,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-03-25T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 338.59,
+            "saldo_nachher": 115.26000000000175,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-03-26T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 259.96,
+            "saldo_nachher": 115.26000000000175,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-03-27T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 259.9,
+            "saldo_nachher": 115.26000000000175,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-04-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -91.67,
+            "saldo_nachher": 23.59000000000175,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "fail"
+        },
+        {
+            "zeitstempel": "2026-04-02T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.032348543441546,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-03T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.037306638134786,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-06T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.042268807974349,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-07T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.0472350563096695,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-08T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.052205386492938,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-09T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.057179801879097,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-10T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.062158305825847,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-13T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.067140901693649,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-14T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.0721275928457255,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-15T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.077118382648065,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-16T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.082113274469419,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-17T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.0871122716813115,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-20T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.092115377658037,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-21T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.09712259577666,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-22T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.102133929417024,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-23T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.10714938196175,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-24T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.112168956796239,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-27T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.117192657308674,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-28T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.122220486890024,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-29T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.127252448934043,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-30T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.132288546837277,
+            "saldo_nachher": -1.4099999999982487,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -93.34,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": -94.74999999999825,
+            "status": "fail"
+        },
+        {
+            "zeitstempel": "2026-05-04T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.142373163821525,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-05T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.1474216897095975,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-06T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.1524743650710025,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-07T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.157531193316267,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-08T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.162592177858718,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-11T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.167657322114493,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-12T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.172726629502532,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-13T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.177800103444589,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-14T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.182877747365229,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-15T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.18795956469183,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-18T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.193045558854591,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-19T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.198135733286526,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-20T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.203230091423474,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-21T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.2083286367040955,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-22T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.21343137256988,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-25T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.218538302465142,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-26T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.223649429837032,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-27T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.228764758135528,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-28T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.233884290813448,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-29T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.239008031326445,
+            "saldo_nachher": -94.74999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -94.96,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": -189.70999999999825,
+            "status": "fail"
+        },
+        {
+            "zeitstempel": "2026-06-02T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.249268149694493,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-03T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.254404534475064,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-04T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.259545140941755,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-05T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.264689972564447,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-08T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.26983903281587,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-09T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.274992325171609,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-10T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.280149853110106,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-11T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.285311620112662,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-12T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.29047762966344,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-15T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.295647885249465,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-16T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.300822390360628,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-17T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.306001148489692,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-18T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.311184163132285,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-19T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.316371437786915,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-22T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.32156297595496,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-23T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.326758781140676,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-24T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.331958856851203,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-25T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.33716320659656,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-26T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.342371833889652,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-29T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.347584742246275,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-30T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.352801935185107,
+            "saldo_nachher": -189.70999999999825,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -96.69,
+            "saldo_nachher": -286.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": -311.3999999999983,
+            "status": "fail"
+        },
+        {
+            "zeitstempel": "2026-07-02T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.363249188898596,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-03T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.368479256725088,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-06T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.373713623237465,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-07T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.378952291968893,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-08T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.384195266455443,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-09T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.38944255023609,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-10T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.394694146852722,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-13T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.399950059850136,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-14T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.40521029277604,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-15T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.410474849181062,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-16T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.415743732618745,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-17T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.421016946645555,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-20T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.42629449482088,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-21T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.431576380707034,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-22T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.436862607869259,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-23T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.442153179875727,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-24T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.447448100297542,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-27T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.452747372708745,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-28T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.458051000686314,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-29T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.463358987810166,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-30T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.46867133766316,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-31T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.4739880538311025,
+            "saldo_nachher": -311.3999999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-03T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -98.54,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-03T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": -409.9399999999983,
+            "status": "fail"
+        },
+        {
+            "zeitstempel": "2026-08-04T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.484634599469788,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-05T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.489964436126886,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-06T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.495298653471648,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-07T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.500637255104639,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-10T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.505980244629382,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-11T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.511327625652365,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-12T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.516679401783039,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-13T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.522035576633819,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-14T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.527396153820094,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-17T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.53276113696022,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-18T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.53813052967553,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-19T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.543504335590332,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-20T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.548882558331913,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-21T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.554265201530542,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-24T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.5596522688194705,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-25T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.565043763834939,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-26T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.570439690216173,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-27T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.575840051605392,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-28T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.581244851647807,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-31T08:00:00Z",
+            "typ": "strafzins",
+            "betrag": 6.586654093991627,
+            "saldo_nachher": -409.9399999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -100.25,
+            "saldo_nachher": -510.1899999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": -510.1899999999983,
+            "status": "fail"
+        },
+        {
+            "zeitstempel": "2026-09-01T08:00:00Z",
+            "typ": "abschreibung",
+            "betrag": -8020.349135117139,
+            "saldo_nachher": -510.1899999999983,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -535.1899999999982,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -560.1899999999982,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -585.1899999999982,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -610.1899999999982,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": -635.1899999999982,
+            "status": "ok"
+        }
+    ]
+}
