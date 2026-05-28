@@ -39,6 +39,9 @@ Python Bank/
 └── data/
     ├── input/        # Transaction files (JSON)
     └── output/       # Generated results (JSON)
+      ├── Konten/     # List of Client/Account with actual Saldo
+      └── bank.json   # final balances of the internal bank account  (JSON)
+      └── zusammenfassung.json  # compact summaryx of the entire simulation (JSON)
 
 ## ⚙️ How It Works
 
@@ -55,8 +58,12 @@ Python Bank/
 
 ## ▶️ Run the Project
 
-```bash
+```bash (Windows)
 python engine.py
+```
+
+```bash (Mac)
+python3 -m engine
 ```
 
 📥 Input Format (Example)
