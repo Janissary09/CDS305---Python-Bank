@@ -118,6 +118,12 @@ python engine.py
 ```
 
 ### macOS
+
+Je nach Umgebung
+```bash
+python3 engine.py
+```
+oder
 ```bash
 python3 engine
 ```
