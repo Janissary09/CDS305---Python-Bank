@@ -91,3 +91,33 @@ Die Eingabedaten liegen im Ordner:
 
 ```text
 data/input/
+```
+
+## Output
+
+Nach der Verarbeitung werden mehrere Ergebnisdateien im Ordner `data/output` gespeichert.
+
+- **`data/output/konten/*.json`**  
+  Für jedes Kundenkonto wird eine eigene JSON-Datei erstellt.  
+  Diese Datei enthält die IBAN des Kontos, die Kundendaten, den aktuellen Kontostand, den aktuellen Kreditstand, den Kontostatus und die vollständige Transaktionshistorie.
+
+- **`data/output/bank.json`**  
+  Diese Datei enthält die Endstände der internen Bankkonten der Bank.
+
+- **`data/output/zusammenfassung.json`**  
+  Diese Datei enthält eine kompakte Zusammenfassung der gesamten Simulation.  
+  Dazu gehören zum Beispiel die Anzahl der Kunden, die Anzahl der Transaktionen, die Anzahl der Buchungen sowie die Endstände der Konten.
+
+---
+
+## Ausführung
+
+### Windows
+```bash
+python engine.py
+```
+
+### macOS
+```bash
+python3 engine
+```
