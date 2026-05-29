@@ -35,52 +35,53 @@ Python Bank/
   Hier werden die Transaktionen geladen, nach Tagen gruppiert und in einer festen Reihenfolge verarbeitet.
 
 - **`konten.py`**  
-  Logik für Kundenkonten.  
-  Enthält Funktionen für Kontoeröffnung, Einzahlungen, Überweisungen, Datenänderungen, Kontogebühren und Kontoschliessung.
+  Enthält die Funktionen für die Kundenkonten.  
+  Dazu gehören Kontoeröffnung, Einzahlungen, Überweisungen, Datenänderungen, Kontogebühren und Kontoschliessung.
 
 - **`kredit.py`**  
-  Logik für Kredite.  
-  Enthält Kreditvergabe, Kreditzinsen, Amortisation, Strafzinsen, Rückzahlungen und Abschreibungen.
+  Enthält die Kreditlogik.  
+  Dazu gehören Kreditvergabe, Kreditzinsen, Amortisation, Strafzinsen, Rückzahlungen und Abschreibungen.
 
 - **`buchung.py`**  
-  Verwaltung der internen Bankkonten.  
-  Dieses Modul bildet die buchhalterische Sicht der Bank ab.
+  Enthält die internen Buchungen der Bank.  
+  In diesem Modul werden die Auswirkungen der Transaktionen auf die internen Bankkonten verarbeitet.
 
 - **`speicherung.py`**  
-  Laden und Speichern der JSON-Dateien.  
-  Dieses Modul übernimmt den Import der Transaktionen sowie das Schreiben der Output-Dateien.
+  Zuständig für das Laden und Speichern der JSON-Dateien.  
+  Dieses Modul übernimmt den Import der Eingabedaten und das Schreiben der Ergebnisdateien.
 
 ---
 
 ## Wichtige Entscheidungen
 
-### 1. Modulare Struktur
-Die Logik wurde auf mehrere Python-Dateien verteilt, damit der Code übersichtlicher und leichter wartbar bleibt.  
-Dadurch ist klar getrennt, welche Funktionen für Kundenkonten, Kredite, Buchungen und Speicherung zuständig sind.
+### 1. Aufteilung in mehrere Module
+Der Code wurde nicht in einer einzigen Datei geschrieben, sondern auf mehrere Module verteilt.  
+Dadurch bleibt die Struktur übersichtlicher und die einzelnen Aufgaben sind klar getrennt.
 
 ### 2. Verarbeitung nach Tagen
-Die Transaktionen werden zuerst geladen und anschliessend nach Datum gruppiert.  
+Die geladenen Transaktionen werden zuerst nach Datum gruppiert.  
 So können alle Transaktionen eines Tages gemeinsam verarbeitet werden.  
-Diese Entscheidung vereinfacht insbesondere die periodischen Prozesse wie Zinsen, Kontogebühren und Amortisationen.
+Das ist besonders hilfreich für periodische Prozesse wie Zinsen, Amortisationen und Kontogebühren.
 
-### 3. Trennung zwischen Kundenkonten und internen Bankkonten
-Die Kundensicht und die Banksicht wurden bewusst getrennt modelliert.  
-Kundenkonten speichern Salden, Kreditstände und Transaktionshistorien, während interne Bankkonten die buchhalterische Sicht der Bank abbilden.
+### 3. Trennung von Kundenkonten und Bankkonten
+Kundenkonten und interne Bankkonten werden getrennt behandelt.  
+Dadurch bleibt die Kundensicht von der buchhalterischen Sicht der Bank getrennt und die Bilanz kann einfacher kontrolliert werden.
 
-### 4. Periodische Verarbeitung über Zeit-Transaktionen
-Zeitabhängige Prozesse wie Kreditzinsen, Strafzinsen, Amortisation und Kontogebühren werden nicht direkt bei normalen Zahlungen ausgelöst, sondern über eigene Zeit-Transaktionen verarbeitet.  
-Dadurch bleibt der Ablauf kontrollierbar und nachvollziehbar.
+### 4. Verwendung von Zeit-Transaktionen
+Periodische Prozesse werden über eigene Zeit-Transaktionen ausgelöst.  
+Dadurch können monatliche oder quartalsweise Abläufe gezielt und nachvollziehbar verarbeitet werden.
 
-### 5. Interne und externe Überweisungen
-Interne Überweisungen zwischen zwei Kundenkonten derselben Bank werden anders behandelt als externe Überweisungen an fremde IBANs.  
-Diese Unterscheidung ist notwendig, weil externe Überweisungen zusätzlich das Zentralbankkonto beeinflussen.
+### 5. Unterscheidung zwischen internen und externen Überweisungen
+Überweisungen innerhalb der Bank und Überweisungen an externe IBANs werden unterschiedlich behandelt.  
+Diese Entscheidung war notwendig, weil externe Überweisungen zusätzlich die internen Bankkonten beeinflussen.
 
 ### 6. JSON als Ein- und Ausgabeformat
-Für die Ein- und Ausgabe wurde JSON verwendet, weil das Format einfach lesbar, leicht testbar und gut für strukturierte Daten geeignet ist.
+Für die Ein- und Ausgabedaten wurde JSON verwendet.  
+Dieses Format ist einfach lesbar, gut testbar und für die Simulation strukturierter Transaktionen geeignet.
 
-### 7. Zusätzliche Zusammenfassung zur Kontrolle
-Neben den einzelnen Kontodateien wird auch eine `zusammenfassung.json` erzeugt.  
-Diese Datei dient dazu, die Endergebnisse der Simulation schneller zu kontrollieren und mit Referenzdaten zu vergleichen.
+### 7. Zusätzliche Zusammenfassung der Ergebnisse
+Neben den einzelnen Kontodateien wird auch eine `zusammenfassung.json` erstellt.  
+Dadurch können die Endergebnisse der Simulation schneller überprüft und einfacher mit Referenzdaten verglichen werden.
 
 ---
 
@@ -90,7 +91,3 @@ Die Eingabedaten liegen im Ordner:
 
 ```text
 data/input/
-Hinweise
-Das Projekt wurde funktional umgesetzt und verwendet keine Klassen.
-Die Daten werden über Python-Dictionaries und JSON-Dateien verarbeitet.
-Das System besitzt keine grafische Benutzeroberfläche und arbeitet vollständig dateibasiert.
