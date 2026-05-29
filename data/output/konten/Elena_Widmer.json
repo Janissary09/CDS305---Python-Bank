@@ -1,0 +1,3701 @@
+{
+    "konto_iban": "CH00007620000000000055",
+    "kunde": {
+        "name": "Elena Widmer",
+        "adresse": "Ringstrasse 22, 7000 Chur",
+        "geburtsdatum": "1988-07-14"
+    },
+    "kontostand": 1189.389999999993,
+    "kreditstand": 0.0,
+    "kreditbetrag": 8000,
+    "status": "aktiv",
+    "eroeffnungsdatum": "2026-01-02",
+    "monate_ohne_tilgung": 0,
+    "transaktionen": [
+        {
+            "zeitstempel": "2026-01-02T09:00:05Z",
+            "typ": "konto_eroeffnen",
+            "betrag": 0.0,
+            "saldo_nachher": 0.0,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6970,
+            "saldo_nachher": 6970.0,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-02T10:00:47Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 481.82,
+            "saldo_nachher": 6488.18,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-04T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 154.0,
+            "saldo_nachher": 6334.18,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 69.71,
+            "saldo_nachher": 6264.47,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-04T10:00:15Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 281.92,
+            "saldo_nachher": 6546.39,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-05T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2057.03,
+            "saldo_nachher": 4489.360000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-06T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 644.89,
+            "saldo_nachher": 3844.4700000000007,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-09T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 278.75,
+            "saldo_nachher": 3565.7200000000007,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-09T10:00:25Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 272.7,
+            "saldo_nachher": 3838.4200000000005,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-10T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 384.26,
+            "saldo_nachher": 3454.1600000000008,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 187.64,
+            "saldo_nachher": 3266.520000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-13T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 753.1,
+            "saldo_nachher": 2513.420000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-16T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 771.39,
+            "saldo_nachher": 1742.030000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-17T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 630.79,
+            "saldo_nachher": 1111.2400000000011,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-18T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 184.81,
+            "saldo_nachher": 926.4300000000012,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-19T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1148.12,
+            "saldo_nachher": 2074.550000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-19T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1258.53,
+            "saldo_nachher": 816.0200000000011,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-19T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 386.04,
+            "saldo_nachher": 429.9800000000011,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-02-23T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 267.45,
+            "saldo_nachher": 162.5300000000011,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6940,
+            "saldo_nachher": 7102.530000000001,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T10:00:29Z",
+            "typ": "kredit_auszahlung",
+            "betrag": 8000,
+            "saldo_nachher": 15102.53,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T10:00:29Z",
+            "typ": "kredit_gebuehr",
+            "betrag": -250,
+            "saldo_nachher": 14852.53,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-02T10:00:45Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 246.41,
+            "saldo_nachher": 14606.12,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-03T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1024.37,
+            "saldo_nachher": 13581.75,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-04T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 44.79,
+            "saldo_nachher": 13536.96,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 222.34,
+            "saldo_nachher": 13314.619999999999,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-05T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 372.18,
+            "saldo_nachher": 12942.439999999999,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-05T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 409.29,
+            "saldo_nachher": 12533.149999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-06T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 166.53,
+            "saldo_nachher": 12366.619999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-09T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 292.37,
+            "saldo_nachher": 12074.249999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-10T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 206.72,
+            "saldo_nachher": 12280.969999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-10T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 260.65,
+            "saldo_nachher": 12020.319999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-11T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 932.62,
+            "saldo_nachher": 12952.939999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 276.98,
+            "saldo_nachher": 12675.959999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-11T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 566.56,
+            "saldo_nachher": 12109.399999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-12T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 749.73,
+            "saldo_nachher": 11359.669999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-13T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2279.15,
+            "saldo_nachher": 9080.519999999999,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-16T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 235.2,
+            "saldo_nachher": 8845.319999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-17T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 552.19,
+            "saldo_nachher": 8293.129999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-18T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 898.83,
+            "saldo_nachher": 7394.299999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-18T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 760.55,
+            "saldo_nachher": 6633.749999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-19T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 169.32,
+            "saldo_nachher": 6464.429999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-20T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 492.97,
+            "saldo_nachher": 5971.459999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-23T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 272.26,
+            "saldo_nachher": 5699.199999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-23T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 576.16,
+            "saldo_nachher": 5123.039999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-24T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 442.77,
+            "saldo_nachher": 4680.269999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-24T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 509.74,
+            "saldo_nachher": 4170.529999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-25T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 449.71,
+            "saldo_nachher": 3720.819999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-25T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 369.36,
+            "saldo_nachher": 3351.459999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-27T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1863.29,
+            "saldo_nachher": 5214.749999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-03-27T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 100.55,
+            "saldo_nachher": 5114.199999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7088,
+            "saldo_nachher": 12202.199999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -100.0,
+            "saldo_nachher": 12102.199999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 12077.199999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 11410.529999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-01T10:01:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1818.79,
+            "saldo_nachher": 9591.739999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-02T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 642.67,
+            "saldo_nachher": 8949.069999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-03T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 451.32,
+            "saldo_nachher": 8497.749999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-06T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 463.87,
+            "saldo_nachher": 8033.879999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-06T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 787.67,
+            "saldo_nachher": 7246.209999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-08T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 73.25,
+            "saldo_nachher": 7172.959999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-09T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 207.42,
+            "saldo_nachher": 6965.539999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-10T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 265.22,
+            "saldo_nachher": 6700.319999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-13T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 666.77,
+            "saldo_nachher": 6033.549999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-15T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 460.83,
+            "saldo_nachher": 5572.7199999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-15T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 120.25,
+            "saldo_nachher": 5452.4699999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-16T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 443.04,
+            "saldo_nachher": 5009.429999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-17T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 559.11,
+            "saldo_nachher": 4450.319999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-17T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 470.57,
+            "saldo_nachher": 3979.7499999999977,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-20T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 256.78,
+            "saldo_nachher": 3722.9699999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-21T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 661.22,
+            "saldo_nachher": 3061.7499999999973,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-22T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1914.56,
+            "saldo_nachher": 1147.1899999999973,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-23T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 562.88,
+            "saldo_nachher": 584.3099999999973,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-24T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 18.92,
+            "saldo_nachher": 565.3899999999974,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-04-27T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 424.83,
+            "saldo_nachher": 140.5599999999974,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7049,
+            "saldo_nachher": 7189.559999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -91.67,
+            "saldo_nachher": 7097.889999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 6431.2199999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-01T10:00:51Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 367.2,
+            "saldo_nachher": 6064.019999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 229.5,
+            "saldo_nachher": 5834.519999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-04T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 227.42,
+            "saldo_nachher": 5607.099999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-05T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 201.02,
+            "saldo_nachher": 5406.079999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-07T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 318.18,
+            "saldo_nachher": 5087.899999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-08T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 60.53,
+            "saldo_nachher": 5027.369999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-08T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 402.74,
+            "saldo_nachher": 4624.629999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-12T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 315.99,
+            "saldo_nachher": 4308.639999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-14T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 827.61,
+            "saldo_nachher": 5136.249999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-14T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 381.43,
+            "saldo_nachher": 4754.819999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-14T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 720.57,
+            "saldo_nachher": 4034.249999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-15T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 358.3,
+            "saldo_nachher": 3675.9499999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-18T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 486.51,
+            "saldo_nachher": 3189.439999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-19T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 108.1,
+            "saldo_nachher": 3081.339999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-20T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 393.07,
+            "saldo_nachher": 2688.269999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-21T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 628.07,
+            "saldo_nachher": 2060.1999999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-22T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 188.44,
+            "saldo_nachher": 1871.7599999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-25T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 23.96,
+            "saldo_nachher": 1847.7999999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-26T10:00:16Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 275.41,
+            "saldo_nachher": 1572.3899999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-27T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1665.1,
+            "saldo_nachher": 3237.489999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-27T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 614.77,
+            "saldo_nachher": 2622.719999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-28T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 749.05,
+            "saldo_nachher": 1873.6699999999962,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-05-29T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 516.68,
+            "saldo_nachher": 1356.9899999999961,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7092,
+            "saldo_nachher": 8448.989999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -83.33,
+            "saldo_nachher": 8365.659999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 7698.989999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-01T10:00:59Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 544.98,
+            "saldo_nachher": 7154.009999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-02T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 665.38,
+            "saldo_nachher": 6488.6299999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-04T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 544.39,
+            "saldo_nachher": 5944.239999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-04T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 745.23,
+            "saldo_nachher": 5199.009999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-05T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 497.23,
+            "saldo_nachher": 4701.779999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-05T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 770.23,
+            "saldo_nachher": 3931.549999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-08T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 183.56,
+            "saldo_nachher": 3747.989999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-10T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 327.3,
+            "saldo_nachher": 3420.689999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-11T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1245.96,
+            "saldo_nachher": 2174.729999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1801.92,
+            "saldo_nachher": 372.80999999999676,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-16T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1103.01,
+            "saldo_nachher": 1475.8199999999968,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-16T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 979.25,
+            "saldo_nachher": 496.56999999999675,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-18T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 784.29,
+            "saldo_nachher": 496.56999999999675,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-06-19T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 188.25,
+            "saldo_nachher": 308.31999999999675,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-22T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1387.37,
+            "saldo_nachher": 1695.6899999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-22T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 190.25,
+            "saldo_nachher": 1505.4399999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-23T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 508.75,
+            "saldo_nachher": 996.6899999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-23T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 139.61,
+            "saldo_nachher": 857.0799999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-24T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 603.4,
+            "saldo_nachher": 253.67999999999665,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-06-30T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1596.86,
+            "saldo_nachher": 253.67999999999665,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-07-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6927,
+            "saldo_nachher": 7180.679999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -75.0,
+            "saldo_nachher": 7105.679999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 7080.679999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 6414.009999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-01T10:01:09Z",
+            "typ": "kredit_rueckzahlung",
+            "betrag": -3000,
+            "saldo_nachher": 3414.0099999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-02T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 229.72,
+            "saldo_nachher": 3184.289999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-03T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 409.18,
+            "saldo_nachher": 2775.109999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-06T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 295.52,
+            "saldo_nachher": 2479.589999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-06T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 561.0,
+            "saldo_nachher": 1918.589999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-07T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 168.74,
+            "saldo_nachher": 1749.849999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-08T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 230.78,
+            "saldo_nachher": 1519.069999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-08T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 301.06,
+            "saldo_nachher": 1218.009999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-09T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 615.41,
+            "saldo_nachher": 602.5999999999971,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-09T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 307.84,
+            "saldo_nachher": 294.7599999999971,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-14T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 25.6,
+            "saldo_nachher": 269.15999999999707,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-20T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1041.46,
+            "saldo_nachher": 1310.6199999999972,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-20T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 90.06,
+            "saldo_nachher": 1220.5599999999972,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-21T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 611.11,
+            "saldo_nachher": 609.4499999999972,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-22T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 235.4,
+            "saldo_nachher": 374.0499999999972,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-23T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1939.83,
+            "saldo_nachher": 2313.8799999999974,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-23T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 391.43,
+            "saldo_nachher": 1922.4499999999973,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-27T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 709.35,
+            "saldo_nachher": 1213.0999999999972,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-28T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 670.82,
+            "saldo_nachher": 542.2799999999971,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-29T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 400.42,
+            "saldo_nachher": 141.85999999999711,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-31T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 32.16,
+            "saldo_nachher": 109.69999999999712,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-07-31T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 94.11,
+            "saldo_nachher": 15.589999999997119,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-03T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7057,
+            "saldo_nachher": 7072.589999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-03T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -29.17,
+            "saldo_nachher": 7043.419999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-03T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 6376.749999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-03T10:01:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 529.88,
+            "saldo_nachher": 5846.869999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-04T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 77.8,
+            "saldo_nachher": 5769.069999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-05T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 771.06,
+            "saldo_nachher": 4998.009999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-06T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 370.24,
+            "saldo_nachher": 4627.769999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-07T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 337.63,
+            "saldo_nachher": 4290.139999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-07T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 119.02,
+            "saldo_nachher": 4171.119999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-10T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 91.7,
+            "saldo_nachher": 4079.4199999999964,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-11T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 378.96,
+            "saldo_nachher": 3700.4599999999964,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-12T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 426.54,
+            "saldo_nachher": 3273.9199999999964,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-14T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 64.23,
+            "saldo_nachher": 3209.6899999999964,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-17T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 567.62,
+            "saldo_nachher": 2642.0699999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-18T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2457.27,
+            "saldo_nachher": 184.79999999999654,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-08-19T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 581.91,
+            "saldo_nachher": 184.79999999999654,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-08-24T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 574.99,
+            "saldo_nachher": 184.79999999999654,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-08-28T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 250.9,
+            "saldo_nachher": 184.79999999999654,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-08-31T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1048.54,
+            "saldo_nachher": 184.79999999999654,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-09-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7053,
+            "saldo_nachher": 7237.7999999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -20.83,
+            "saldo_nachher": 7216.969999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 6550.2999999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-01T10:00:59Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 632.65,
+            "saldo_nachher": 5917.649999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-02T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 409.46,
+            "saldo_nachher": 5508.189999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-03T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 329.5,
+            "saldo_nachher": 5837.689999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-03T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 475.75,
+            "saldo_nachher": 5361.939999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 758.83,
+            "saldo_nachher": 4603.109999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-07T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 687.15,
+            "saldo_nachher": 3915.959999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-07T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 353.11,
+            "saldo_nachher": 3562.8499999999967,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-08T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1471.01,
+            "saldo_nachher": 2091.8399999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-09T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1944.23,
+            "saldo_nachher": 147.6099999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 14.43,
+            "saldo_nachher": 133.17999999999648,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-09-14T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1710.76,
+            "saldo_nachher": 133.17999999999648,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-09-16T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 181.85,
+            "saldo_nachher": 133.17999999999648,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-09-22T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 480.67,
+            "saldo_nachher": 133.17999999999648,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-09-23T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 24.79,
+            "saldo_nachher": 108.38999999999649,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7026,
+            "saldo_nachher": 7134.389999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-01T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -12.5,
+            "saldo_nachher": 7121.889999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 7096.889999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-01T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -666.67,
+            "saldo_nachher": 6430.219999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-01T10:01:14Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 261.73,
+            "saldo_nachher": 6691.949999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-02T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 320.9,
+            "saldo_nachher": 6371.049999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-05T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 475.95,
+            "saldo_nachher": 5895.099999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-05T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 79.52,
+            "saldo_nachher": 5815.579999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-06T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2344.99,
+            "saldo_nachher": 3470.5899999999974,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-07T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 736.7,
+            "saldo_nachher": 2733.8899999999976,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-08T10:00:05Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 411.54,
+            "saldo_nachher": 3145.4299999999976,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-09T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 298.81,
+            "saldo_nachher": 2846.6199999999976,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-12T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 698.86,
+            "saldo_nachher": 2147.7599999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-13T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 344.97,
+            "saldo_nachher": 1802.7899999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-13T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 767.65,
+            "saldo_nachher": 1035.1399999999976,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-15T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 284.37,
+            "saldo_nachher": 750.7699999999976,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-16T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 81.44,
+            "saldo_nachher": 669.3299999999977,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-16T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 515.19,
+            "saldo_nachher": 154.1399999999976,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-10-20T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 764.24,
+            "saldo_nachher": 154.1399999999976,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-10-22T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 317.19,
+            "saldo_nachher": 154.1399999999976,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-10-23T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 158.71,
+            "saldo_nachher": 154.1399999999976,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-10-30T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 793.44,
+            "saldo_nachher": 154.1399999999976,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-11-02T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6938,
+            "saldo_nachher": 7092.139999999998,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-02T08:00:00Z",
+            "typ": "kredit_zinsen",
+            "betrag": -4.17,
+            "saldo_nachher": 7087.9699999999975,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-02T08:00:00Z",
+            "typ": "kredit_amortisation",
+            "betrag": -333.31,
+            "saldo_nachher": 6754.659999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-02T10:00:50Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 133.43,
+            "saldo_nachher": 6621.229999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-03T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 607.47,
+            "saldo_nachher": 6013.759999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-03T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 511.88,
+            "saldo_nachher": 5501.8799999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 367.22,
+            "saldo_nachher": 5134.659999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-04T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 778.86,
+            "saldo_nachher": 4355.7999999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-05T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 386.19,
+            "saldo_nachher": 3969.6099999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-05T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 466.0,
+            "saldo_nachher": 3503.6099999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-06T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 408.26,
+            "saldo_nachher": 3095.3499999999967,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-10T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 215.67,
+            "saldo_nachher": 2879.6799999999967,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-11T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 757.96,
+            "saldo_nachher": 2121.7199999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-11T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 361.6,
+            "saldo_nachher": 1760.1199999999967,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-12T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 170.13,
+            "saldo_nachher": 1589.9899999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-13T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 135.95,
+            "saldo_nachher": 1454.0399999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-13T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 782.01,
+            "saldo_nachher": 672.0299999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-17T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 366.45,
+            "saldo_nachher": 305.5799999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-18T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 28.71,
+            "saldo_nachher": 276.8699999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-19T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 146.21,
+            "saldo_nachher": 130.6599999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-11-27T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 141.85,
+            "saldo_nachher": 130.6599999999966,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2026-12-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6941,
+            "saldo_nachher": 7071.659999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-01T10:00:44Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 681.97,
+            "saldo_nachher": 6389.689999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-01T10:00:46Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 465.86,
+            "saldo_nachher": 5923.829999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-03T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 787.83,
+            "saldo_nachher": 5135.999999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-04T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 642.16,
+            "saldo_nachher": 4493.8399999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-07T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 643.89,
+            "saldo_nachher": 3849.9499999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-07T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2237.09,
+            "saldo_nachher": 1612.8599999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-08T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 82.7,
+            "saldo_nachher": 1530.1599999999964,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-09T10:00:05Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 134.64,
+            "saldo_nachher": 1664.7999999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-09T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 479.77,
+            "saldo_nachher": 1185.0299999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-09T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 478.38,
+            "saldo_nachher": 706.6499999999966,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-14T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 533.22,
+            "saldo_nachher": 173.42999999999654,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-16T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 67.36,
+            "saldo_nachher": 106.06999999999654,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-22T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 192.82,
+            "saldo_nachher": 298.8899999999965,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2026-12-24T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 171.67,
+            "saldo_nachher": 127.21999999999653,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7022,
+            "saldo_nachher": 7149.219999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 7124.219999999997,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-01T10:00:59Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 334.8,
+            "saldo_nachher": 6789.419999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-04T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 796.93,
+            "saldo_nachher": 5992.489999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-07T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 668.03,
+            "saldo_nachher": 5324.459999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-07T10:00:19Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 253.4,
+            "saldo_nachher": 5577.859999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-08T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 584.87,
+            "saldo_nachher": 4992.989999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-11T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1791.64,
+            "saldo_nachher": 3201.349999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-12T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 678.82,
+            "saldo_nachher": 2522.5299999999957,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-13T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 495.36,
+            "saldo_nachher": 2027.1699999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-14T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 568.98,
+            "saldo_nachher": 1458.1899999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-14T10:00:16Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 592.27,
+            "saldo_nachher": 865.9199999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-15T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 181.64,
+            "saldo_nachher": 684.2799999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-18T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 268.23,
+            "saldo_nachher": 416.0499999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-18T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 757.19,
+            "saldo_nachher": 416.0499999999955,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-01-19T10:00:01Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 719.85,
+            "saldo_nachher": 416.0499999999955,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-01-20T10:00:07Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 357.37,
+            "saldo_nachher": 773.4199999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-22T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 476.2,
+            "saldo_nachher": 297.21999999999554,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-01-25T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 167.6,
+            "saldo_nachher": 129.61999999999554,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7079,
+            "saldo_nachher": 7208.619999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-01T10:00:39Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1371.82,
+            "saldo_nachher": 5836.799999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-02T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 34.94,
+            "saldo_nachher": 5801.859999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-03T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 614.65,
+            "saldo_nachher": 6416.509999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-03T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 56.28,
+            "saldo_nachher": 6360.229999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-04T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 354.29,
+            "saldo_nachher": 6005.939999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-05T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 417.85,
+            "saldo_nachher": 5588.089999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-08T10:00:15Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 164.51,
+            "saldo_nachher": 5752.599999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-08T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 70.6,
+            "saldo_nachher": 5681.999999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-08T10:00:21Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 131.79,
+            "saldo_nachher": 5550.2099999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-09T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1131.51,
+            "saldo_nachher": 6681.719999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-10T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 209.58,
+            "saldo_nachher": 6472.139999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-11T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 537.04,
+            "saldo_nachher": 7009.179999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-11T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 628.6,
+            "saldo_nachher": 6380.579999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-12T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 630.08,
+            "saldo_nachher": 5750.499999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-16T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 56.14,
+            "saldo_nachher": 5694.359999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-17T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 13.64,
+            "saldo_nachher": 5680.719999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-18T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 183.03,
+            "saldo_nachher": 5497.689999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-19T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 258.95,
+            "saldo_nachher": 5238.739999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-19T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 854.25,
+            "saldo_nachher": 4384.489999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-23T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 821.36,
+            "saldo_nachher": 3563.129999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-23T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 925.03,
+            "saldo_nachher": 2638.099999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-24T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 707.02,
+            "saldo_nachher": 1931.079999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-25T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 562.5,
+            "saldo_nachher": 1368.579999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-02-26T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 340.16,
+            "saldo_nachher": 1028.4199999999948,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6814,
+            "saldo_nachher": 7842.419999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-02T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 232.57,
+            "saldo_nachher": 7609.849999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-02T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 712.28,
+            "saldo_nachher": 6897.569999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-03T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 740.98,
+            "saldo_nachher": 6156.589999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 231.87,
+            "saldo_nachher": 5924.719999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-04T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 654.36,
+            "saldo_nachher": 5270.359999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-08T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 414.05,
+            "saldo_nachher": 4856.309999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-10T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 315.03,
+            "saldo_nachher": 4541.279999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-11T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 715.63,
+            "saldo_nachher": 3825.649999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-12T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 169.03,
+            "saldo_nachher": 3656.619999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-15T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 216.76,
+            "saldo_nachher": 3439.859999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-17T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 154.66,
+            "saldo_nachher": 3285.1999999999953,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-17T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 348.48,
+            "saldo_nachher": 2936.7199999999953,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-18T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 533.92,
+            "saldo_nachher": 3470.6399999999953,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-18T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 210.37,
+            "saldo_nachher": 3260.2699999999954,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-19T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1816.67,
+            "saldo_nachher": 5076.939999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-24T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 214.78,
+            "saldo_nachher": 4862.159999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-25T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 757.13,
+            "saldo_nachher": 4105.029999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-29T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 648.77,
+            "saldo_nachher": 3456.259999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-30T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 150.77,
+            "saldo_nachher": 3305.4899999999952,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-31T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 679.11,
+            "saldo_nachher": 2626.379999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-03-31T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 201.6,
+            "saldo_nachher": 2424.779999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6891,
+            "saldo_nachher": 9315.779999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 9290.779999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-01T10:01:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 625.06,
+            "saldo_nachher": 8665.719999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-01T10:01:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 23.66,
+            "saldo_nachher": 8642.059999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-02T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 492.91,
+            "saldo_nachher": 8149.149999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-02T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 118.17,
+            "saldo_nachher": 8030.979999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-05T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 263.77,
+            "saldo_nachher": 7767.2099999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-07T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 474.25,
+            "saldo_nachher": 7292.9599999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-08T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 678.13,
+            "saldo_nachher": 6614.829999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-08T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 246.4,
+            "saldo_nachher": 6368.429999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-09T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 164.18,
+            "saldo_nachher": 6204.249999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-12T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 780.59,
+            "saldo_nachher": 5423.659999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-13T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 218.61,
+            "saldo_nachher": 5205.049999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-14T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 430.03,
+            "saldo_nachher": 5635.079999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-14T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 37.74,
+            "saldo_nachher": 5597.339999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-15T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 88.77,
+            "saldo_nachher": 5508.569999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-16T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1042.42,
+            "saldo_nachher": 6550.989999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-16T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 318.83,
+            "saldo_nachher": 6232.159999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-19T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2408.7,
+            "saldo_nachher": 3823.4599999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-19T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 470.84,
+            "saldo_nachher": 3352.6199999999953,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-20T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 413.83,
+            "saldo_nachher": 2938.7899999999954,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-21T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 284.49,
+            "saldo_nachher": 2654.2999999999956,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-22T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 254.15,
+            "saldo_nachher": 2400.1499999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-22T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 512.38,
+            "saldo_nachher": 1887.7699999999954,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-26T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 790.18,
+            "saldo_nachher": 1097.5899999999956,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-28T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 581.97,
+            "saldo_nachher": 515.6199999999956,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-28T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 473.48,
+            "saldo_nachher": 42.13999999999555,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-29T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 211.06,
+            "saldo_nachher": 253.19999999999555,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-04-29T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 497.3,
+            "saldo_nachher": 253.19999999999555,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-04-30T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 530.73,
+            "saldo_nachher": 783.9299999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-03T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6802,
+            "saldo_nachher": 7585.929999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-03T10:00:37Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 307.88,
+            "saldo_nachher": 7278.049999999996,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-03T10:00:39Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 791.44,
+            "saldo_nachher": 6486.609999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-04T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 24.9,
+            "saldo_nachher": 6461.7099999999955,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-05T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 714.97,
+            "saldo_nachher": 5746.739999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-06T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 376.06,
+            "saldo_nachher": 5370.679999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-10T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 655.92,
+            "saldo_nachher": 4714.759999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-11T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 623.54,
+            "saldo_nachher": 4091.219999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 499.56,
+            "saldo_nachher": 3591.659999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-12T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 633.04,
+            "saldo_nachher": 2958.619999999995,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-12T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 137.74,
+            "saldo_nachher": 2820.8799999999947,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-13T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 722.88,
+            "saldo_nachher": 2097.9999999999945,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-13T10:00:14Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 223.68,
+            "saldo_nachher": 1874.3199999999945,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-14T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 438.89,
+            "saldo_nachher": 1435.4299999999944,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-17T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 41.41,
+            "saldo_nachher": 1394.0199999999943,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-19T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 165.13,
+            "saldo_nachher": 1228.8899999999944,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-20T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 524.94,
+            "saldo_nachher": 703.9499999999944,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-24T10:00:08Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 142.67,
+            "saldo_nachher": 846.6199999999943,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-24T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 745.09,
+            "saldo_nachher": 101.52999999999429,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-05-27T10:00:02Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 650.3,
+            "saldo_nachher": 101.52999999999429,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-05-28T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 503.69,
+            "saldo_nachher": 101.52999999999429,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-06-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7078,
+            "saldo_nachher": 7179.529999999994,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-01T10:00:37Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 204.34,
+            "saldo_nachher": 6975.189999999994,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-02T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 227.3,
+            "saldo_nachher": 6747.889999999994,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-02T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 491.06,
+            "saldo_nachher": 6256.829999999994,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-03T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 12.13,
+            "saldo_nachher": 6244.699999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-03T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 714.89,
+            "saldo_nachher": 5529.809999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-04T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 673.94,
+            "saldo_nachher": 4855.8699999999935,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-07T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 546.34,
+            "saldo_nachher": 4309.529999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-08T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 521.11,
+            "saldo_nachher": 3788.4199999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-09T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1284.23,
+            "saldo_nachher": 5072.649999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-09T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 286.81,
+            "saldo_nachher": 4785.839999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-10T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 558.57,
+            "saldo_nachher": 4227.269999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-10T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 470.98,
+            "saldo_nachher": 3756.289999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-11T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2237.15,
+            "saldo_nachher": 1519.139999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-11T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 264.51,
+            "saldo_nachher": 1254.629999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-15T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 645.83,
+            "saldo_nachher": 608.799999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-16T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 270.34,
+            "saldo_nachher": 338.45999999999304,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-16T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1899.61,
+            "saldo_nachher": 338.45999999999304,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-06-17T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 687.88,
+            "saldo_nachher": 338.45999999999304,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-06-17T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 50.05,
+            "saldo_nachher": 288.40999999999303,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-18T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 415.03,
+            "saldo_nachher": 288.40999999999303,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-06-23T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1446.02,
+            "saldo_nachher": 1734.429999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-25T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1235.29,
+            "saldo_nachher": 499.13999999999305,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-28T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 609.12,
+            "saldo_nachher": 499.13999999999305,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-06-29T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 70.77,
+            "saldo_nachher": 428.36999999999307,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-06-29T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2168.26,
+            "saldo_nachher": 428.36999999999307,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-06-30T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 183.94,
+            "saldo_nachher": 244.42999999999307,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6926,
+            "saldo_nachher": 7170.429999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 7145.429999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-02T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 247.94,
+            "saldo_nachher": 6897.489999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-05T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 651.05,
+            "saldo_nachher": 6246.439999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-06T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1876.72,
+            "saldo_nachher": 4369.719999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-07T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 692.09,
+            "saldo_nachher": 3677.629999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-09T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 97.64,
+            "saldo_nachher": 3579.989999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-12T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 329.32,
+            "saldo_nachher": 3250.669999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-12T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1741.69,
+            "saldo_nachher": 1508.9799999999927,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-13T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 509.28,
+            "saldo_nachher": 999.6999999999928,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-14T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 594.28,
+            "saldo_nachher": 405.4199999999928,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-15T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 215.93,
+            "saldo_nachher": 189.4899999999928,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-16T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2358.96,
+            "saldo_nachher": 189.4899999999928,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-07-22T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 307.49,
+            "saldo_nachher": 189.4899999999928,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-07-22T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 60.55,
+            "saldo_nachher": 128.93999999999278,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-07-28T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 561.99,
+            "saldo_nachher": 128.93999999999278,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-07-29T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 231.15,
+            "saldo_nachher": 128.93999999999278,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-08-02T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 7074,
+            "saldo_nachher": 7202.939999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-02T10:00:23Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 221.47,
+            "saldo_nachher": 6981.469999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-03T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 166.75,
+            "saldo_nachher": 6814.719999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-03T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 16.81,
+            "saldo_nachher": 6797.909999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 342.85,
+            "saldo_nachher": 6455.059999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-05T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 400.94,
+            "saldo_nachher": 6054.119999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-05T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 344.39,
+            "saldo_nachher": 5709.729999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-06T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 2381.02,
+            "saldo_nachher": 3328.7099999999923,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-10T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 648.65,
+            "saldo_nachher": 2680.059999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-12T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 294.24,
+            "saldo_nachher": 2974.299999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-12T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1261.63,
+            "saldo_nachher": 1712.669999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-13T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 735.04,
+            "saldo_nachher": 977.6299999999919,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-17T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 413.82,
+            "saldo_nachher": 563.809999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-18T10:00:18Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 309.09,
+            "saldo_nachher": 254.719999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-23T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 671.98,
+            "saldo_nachher": 254.719999999992,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-08-24T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 90.79,
+            "saldo_nachher": 163.929999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-08-31T10:00:02Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 21.39,
+            "saldo_nachher": 142.539999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6958,
+            "saldo_nachher": 7100.539999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-01T10:00:27Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 311.47,
+            "saldo_nachher": 6789.0699999999915,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-02T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 448.04,
+            "saldo_nachher": 6341.029999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-02T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 222.5,
+            "saldo_nachher": 6118.529999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-03T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1224.64,
+            "saldo_nachher": 7343.169999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-06T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 799.2,
+            "saldo_nachher": 6543.969999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-06T10:00:19Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 606.9,
+            "saldo_nachher": 5937.069999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-07T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 411.85,
+            "saldo_nachher": 5525.219999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-08T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 389.21,
+            "saldo_nachher": 5136.009999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-08T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 253.42,
+            "saldo_nachher": 4882.589999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-09T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 406.47,
+            "saldo_nachher": 4476.119999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-10T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 343.64,
+            "saldo_nachher": 4132.479999999991,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-13T10:00:01Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 221.35,
+            "saldo_nachher": 3911.1299999999915,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-14T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 463.64,
+            "saldo_nachher": 3447.4899999999916,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-14T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 782.68,
+            "saldo_nachher": 2664.8099999999918,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-15T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 211.88,
+            "saldo_nachher": 2876.689999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-17T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 325.32,
+            "saldo_nachher": 2551.3699999999917,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-17T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 42.91,
+            "saldo_nachher": 2508.459999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-20T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 106.41,
+            "saldo_nachher": 2402.049999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-21T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 385.21,
+            "saldo_nachher": 2016.839999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-21T10:00:08Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 292.36,
+            "saldo_nachher": 1724.4799999999918,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-22T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 609.87,
+            "saldo_nachher": 1114.609999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-23T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 602.02,
+            "saldo_nachher": 512.589999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-09-24T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 454.44,
+            "saldo_nachher": 58.14999999999196,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6995,
+            "saldo_nachher": 7053.149999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-01T08:00:00Z",
+            "typ": "kontogebuehr",
+            "betrag": -25.0,
+            "saldo_nachher": 7028.149999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-05T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 29.82,
+            "saldo_nachher": 6998.329999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-05T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 299.8,
+            "saldo_nachher": 6698.5299999999925,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-06T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 437.29,
+            "saldo_nachher": 6261.2399999999925,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-07T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 688.44,
+            "saldo_nachher": 5572.799999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-07T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 583.04,
+            "saldo_nachher": 4989.759999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-08T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 745.88,
+            "saldo_nachher": 4243.879999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-08T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 438.04,
+            "saldo_nachher": 3805.839999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 121.05,
+            "saldo_nachher": 3684.789999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-12T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 135.99,
+            "saldo_nachher": 3548.799999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-13T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 547.63,
+            "saldo_nachher": 3001.169999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-14T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 579.49,
+            "saldo_nachher": 2421.679999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-15T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 507.44,
+            "saldo_nachher": 1914.239999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-18T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 577.09,
+            "saldo_nachher": 1337.149999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-20T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 166.52,
+            "saldo_nachher": 1170.629999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-21T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 537.29,
+            "saldo_nachher": 1707.919999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-21T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 79.21,
+            "saldo_nachher": 1628.7099999999919,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-22T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 251.8,
+            "saldo_nachher": 1376.909999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-22T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 28.94,
+            "saldo_nachher": 1347.9699999999918,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-25T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 541.85,
+            "saldo_nachher": 806.1199999999918,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-26T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 201.14,
+            "saldo_nachher": 604.9799999999918,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-27T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 229.6,
+            "saldo_nachher": 375.3799999999918,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-28T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 267.84,
+            "saldo_nachher": 107.53999999999184,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-10-29T10:00:03Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 590.53,
+            "saldo_nachher": 107.53999999999184,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-11-01T10:00:11Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6951,
+            "saldo_nachher": 7058.539999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-01T10:00:27Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 191.44,
+            "saldo_nachher": 6867.099999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-02T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 480.46,
+            "saldo_nachher": 6386.639999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-02T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 360.88,
+            "saldo_nachher": 6025.759999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-03T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 458.66,
+            "saldo_nachher": 5567.099999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-04T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 90.28,
+            "saldo_nachher": 5476.819999999992,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-05T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1860.8,
+            "saldo_nachher": 3616.0199999999923,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-08T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 63.5,
+            "saldo_nachher": 3552.5199999999923,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-10T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 350.56,
+            "saldo_nachher": 3201.9599999999923,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-11T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 996.24,
+            "saldo_nachher": 4198.1999999999925,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-11T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 268.52,
+            "saldo_nachher": 3929.6799999999926,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-11T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 448.25,
+            "saldo_nachher": 3481.4299999999926,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-15T10:00:03Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1654.42,
+            "saldo_nachher": 5135.849999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-15T10:00:10Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 251.79,
+            "saldo_nachher": 4884.059999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-15T10:00:12Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 751.35,
+            "saldo_nachher": 4132.709999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-16T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 297.93,
+            "saldo_nachher": 3834.779999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-18T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 597.62,
+            "saldo_nachher": 3237.159999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-18T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 235.0,
+            "saldo_nachher": 3002.159999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-19T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 196.67,
+            "saldo_nachher": 2805.489999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-22T10:00:06Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 1769.74,
+            "saldo_nachher": 1035.749999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-23T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 155.16,
+            "saldo_nachher": 880.589999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-24T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 500.15,
+            "saldo_nachher": 380.439999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-26T10:00:05Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 835.67,
+            "saldo_nachher": 1216.1099999999929,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-26T10:00:15Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 400.75,
+            "saldo_nachher": 1616.8599999999929,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-11-30T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 258.42,
+            "saldo_nachher": 1875.279999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-01T10:00:09Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 6849,
+            "saldo_nachher": 8724.279999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-01T10:00:25Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 16.57,
+            "saldo_nachher": 8707.709999999994,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-01T10:00:27Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 126.76,
+            "saldo_nachher": 8580.949999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-02T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 348.01,
+            "saldo_nachher": 8232.939999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-02T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 522.75,
+            "saldo_nachher": 7710.189999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-03T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 529.21,
+            "saldo_nachher": 7180.979999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-06T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 471.36,
+            "saldo_nachher": 6709.6199999999935,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-07T10:00:17Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 776.26,
+            "saldo_nachher": 5933.359999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-09T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 734.66,
+            "saldo_nachher": 5198.699999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-09T10:00:15Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 404.05,
+            "saldo_nachher": 4794.649999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-10T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 718.54,
+            "saldo_nachher": 4076.1099999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-10T10:00:13Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 754.5,
+            "saldo_nachher": 3321.6099999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-14T10:00:09Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 449.29,
+            "saldo_nachher": 2872.3199999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-15T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 135.52,
+            "saldo_nachher": 2736.7999999999934,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-16T10:00:11Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 33.13,
+            "saldo_nachher": 2703.6699999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-17T10:00:01Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 728.01,
+            "saldo_nachher": 1975.6599999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-20T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 80.57,
+            "saldo_nachher": 1895.0899999999933,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-21T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 307.36,
+            "saldo_nachher": 1587.7299999999932,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-21T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 552.72,
+            "saldo_nachher": 1035.0099999999932,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-23T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 710.73,
+            "saldo_nachher": 324.27999999999315,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-24T10:00:01Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 211.12,
+            "saldo_nachher": 113.15999999999315,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-29T10:00:05Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 509.97,
+            "saldo_nachher": 113.15999999999315,
+            "status": "fail",
+            "ablehnungsgrund": "Ungenuegendes Guthaben"
+        },
+        {
+            "zeitstempel": "2027-12-30T10:00:01Z",
+            "typ": "ueberweisung_ein",
+            "betrag": 1638.83,
+            "saldo_nachher": 1751.989999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-30T10:00:07Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 19.99,
+            "saldo_nachher": 1731.999999999993,
+            "status": "ok"
+        },
+        {
+            "zeitstempel": "2027-12-31T10:00:04Z",
+            "typ": "ueberweisung_aus",
+            "betrag": 542.61,
+            "saldo_nachher": 1189.389999999993,
+            "status": "ok"
+        }
+    ]
+}
